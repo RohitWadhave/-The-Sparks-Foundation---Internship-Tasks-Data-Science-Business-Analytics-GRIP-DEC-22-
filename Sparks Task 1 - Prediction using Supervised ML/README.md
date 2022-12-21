@@ -2,6 +2,7 @@
 
 Data Science and Business Analytics Task-1: 
 1.Predict the percentage of an student based on the number of study hours.
+
 2.What will be predicted score if a student for 9.25 hr/day ?
 
 Using simple linear regression model, forecasting the marks of a student based on the numbers of hours studied per day. 
