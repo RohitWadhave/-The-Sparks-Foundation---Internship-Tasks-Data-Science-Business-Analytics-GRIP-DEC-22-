@@ -1,4 +1,4 @@
-# -The-Sparks-Foundation---Internship-Tasks-Data-Science-Business-Analytics-GRIP-DEC-22-
+# The Sparks Foundation - Internship Tasks Data-Science and Business-Analytics (GRIP-DEC22)
 
 This repository contains the submission of all intern tasks that i've performed under Data Science and Business Analytics Internship (December 2022 Batch) by The Sparks Foundation..
 
