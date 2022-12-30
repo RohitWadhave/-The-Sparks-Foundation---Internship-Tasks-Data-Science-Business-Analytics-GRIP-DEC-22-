@@ -10,7 +10,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 In this internship, we were provided a total of 8 Tasks and I was able to successfully complete all the 8 tasks within the given time-frame.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/imdsatyam/GRIP-Internship-Tasks/blob/main/Task-1%20Prediction%20Using%20Supervised%20ML/Task-1%20Prediction%20Using%20Supervised%20ML.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/RohitWadhave/-The-Sparks-Foundation---Internship-Tasks-Data-Science-Business-Analytics-GRIP-DEC-22-/blob/main/Sparks%20Task%201%20-%20Prediction%20using%20Supervised%20ML/Task_1_Prediction_Using_Supervised_Learning.ipynb)
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
