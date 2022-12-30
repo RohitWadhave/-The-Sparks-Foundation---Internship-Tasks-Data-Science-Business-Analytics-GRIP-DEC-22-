@@ -1,6 +1,8 @@
 # Prediction using Decision Tree Algorithm
 
-Data Science and Business Analytics Task-6: Implementing a Decision Tree Classifier and Visualizing it graphically
+Data Science and Business Analytics Task-6: 
+
+Implementing a Decision Tree Classifier and Visualizing it graphically
 
 For the given ‘Iris’ data set,create the Decision Tree Classifier & visualize it graphically
 
