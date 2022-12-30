@@ -101,6 +101,8 @@ _Please click on the images on right side to view my solution._
  ### References -
  - [Tableau](https://help.tableau.com/v2018.3/offline/en-us/tableau_desktop.pdf) 
  - [Scikit Learn](https://scikit-learn.org/stable/)
+ - [Numpy](https://numpy.org/doc/stable/user/absolute_beginners.html)
+ - [Matplotlib](https://matplotlib.org/stable/users/index.html)
 
 
 **NOTE : If you face any issue over dataset then please refer to the thread of [Issues](https://github.com/imdsatyam/GRIP-Internship-Tasks/issues).**
