@@ -21,7 +21,7 @@ _Please click on the images on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/imdsatyam/GRIP-Internship-Tasks/blob/main/Task-2%20Prediction%20using%20Unsupervised%20ML/Task-2%20Prediction%20using%20Unsupervised%20ML.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/RohitWadhave/-The-Sparks-Foundation---Internship-Tasks-Data-Science-Business-Analytics-GRIP-DEC-22-/blob/main/Sparks%20Task%202%20-%20Prediction%20using%20Unsupervised%20ML/Task_2_Prediction_using_Unsupervised_ML.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 _Please click on the images on right side to view my solution._
@@ -30,7 +30,7 @@ _Please click on the images on right side to view my solution._
 1. Use R or Python or perform this task.
 1. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/imdsatyam/GRIP-Internship-Tasks/blob/main/Task-3%20Exploratory%20Data%20Analysis%20-%20Retail/Task-3%20Exploratory%20Data%20Analysis%20-%20Retail.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
 
 ### # Task-3 : Exploratory Data Anaysis - Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
@@ -42,7 +42,7 @@ _Please click on the images on right side to view my solution._
 1. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
 1. Create dashboards. Screen record along with your audio explaining the charts and interpretations.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/imdsatyam/GRIP-Internship-Tasks/blob/main/Task-4%20Exploratory%20Data%20Analysis%20-%20Terrorism/Task-4%20Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
 
 ### # Task-4 : Exploratory Data Analysis - Terrorism (Level - Intermediate)
 _Please click on the images on right side to view my solution._
@@ -54,7 +54,7 @@ _Please click on the images on right side to view my solution._
 1. Dataset link :[https://bit.ly/2TK5Xn5]
 1. Create storyboards. Screen record along with your audio explaining the charts and interpretations. Use images .
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/imdsatyam/GRIP-Internship-Tasks/blob/main/Task-5%20Exploratory%20Data%20Analysis%20-%20Sports/Task-5%20Exploratory%20Data%20Analysis%20-%20Sports.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
 
 ### # Task-5 : Exploratory Data Analysis - Sports (Level - Advanced)
 _Please click on the images on right side to view my solution._
@@ -66,7 +66,7 @@ _Please click on the images on right side to view my solution._
 1. Dataset link :[https://bit.ly/34SRn3b]
 1. Create storyboards. Screen record along with your audio explaining the charts and interpretations. Use annotations, animation and images.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/imdsatyam/GRIP-Internship-Tasks/blob/main/Task-6%20Prediction%20using%20Decision%20Tree%20Algorithm/Task-6%20Prediction%20using%20Decision%20Tree%20Algorithm.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/RohitWadhave/-The-Sparks-Foundation---Internship-Tasks-Data-Science-Business-Analytics-GRIP-DEC-22-/blob/main/Sparks%20Task%206%20-%20Prediction%20using%20Decision%20Tree%20Algorithm/Task_6_Prediction_using_Decision_Tree_Algorithm.ipynb)
 
 ### # Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Please click on the images on right side to view my solution._
@@ -75,7 +75,7 @@ _Please click on the images on right side to view my solution._
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/imdsatyam/GRIP-Internship-Tasks/blob/main/Task-7%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Task-7%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
 
 ### # Task-7 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 _Please click on the images on right side to view my solution._
@@ -86,7 +86,7 @@ _Please click on the images on right side to view my solution._
 1. Download textual (news) data from [https://bit.ly/36fFPI6](https://bit.ly/36fFPI6)
 1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/imdsatyam/GRIP-Internship-Tasks/blob/main/Task-8%20Timeline%20Analysis%20-%20Covid-19/Task-8%20Timeline%20Analysis%20-%20Covid-19.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
 
 ### # Task-8 : Timeline Analysis : Covid-19 (Level - Advanced)
 _Please click on the images on right side to view my solution._
@@ -103,6 +103,8 @@ _Please click on the images on right side to view my solution._
  - [Scikit Learn](https://scikit-learn.org/stable/)
  - [Numpy](https://numpy.org/doc/stable/user/absolute_beginners.html)
  - [Matplotlib](https://matplotlib.org/stable/users/index.html)
+ - [Seaborn](https://seaborn.pydata.org/tutorial.html)
+ - [Pandas](https://pandas.pydata.org/docs/index.html)
 
 
 **NOTE : If you face any issue over dataset then please refer to the thread of [Issues](https://github.com/imdsatyam/GRIP-Internship-Tasks/issues).**
